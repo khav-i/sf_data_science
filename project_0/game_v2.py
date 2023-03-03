@@ -16,10 +16,19 @@ def random_predict(number: int = 1) -> int:
     """
     count = 0
 
+    low_num = 1  # Предварительно задаем нижнюю границу поиска.
+    up_num = 101  # Предварительно задаем верхнюю границу поиска.
+
     while True:
         count += 1
-        predict_number = np.random.randint(1, 101)  # Предполагаемое число.
-        if number == predict_number:
+        predict_number = np.random.randint(low_num, up_num)  # Предполагаемое число.
+        if predict_number > number:
+            up_num = predict_number
+
+        elif predict_number < number:
+            low_num = predict_number
+        
+        elif number == predict_number:
             break  # Выход из цикла, если угадали.
     return count
 
