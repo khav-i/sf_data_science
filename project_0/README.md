@@ -9,7 +9,7 @@
 
 [4. Этапы работы над проектом](https://github.com/khav-i/sf_data_science/blob/main/project_0/README.md#этапы-работы-над-проектом)  
 
-[5. Результат](https://github.com/khav-i/sf_data_science/blob/main/project_0/README.md#результат)    
+[5. Результат](https://github.com/khav-i/sf_data_science/blob/main/project_0/README.md#результаты)    
 
 [6. Выводы](https://github.com/khav-i/sf_data_science/blob/main/project_0/README.md#выводы) 
 
