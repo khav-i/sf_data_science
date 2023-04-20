@@ -30,7 +30,12 @@
 
 ### Краткая информация о данных
 ....
-  
+
+(https://drive.google.com/file/d/1ro3lRr5aItPCNqGWI0OwyZchs2khaHyx/view?usp=sharing)
+(https://drive.google.com/file/d/1VCq2XBY2gwvUU3nC5t7g5Q2ACQ09Z2VX/view?usp=sharing)
+
+
+
 :arrow_up:[к оглавлению](.README.md#Оглавление)
 
 
