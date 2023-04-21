@@ -10,7 +10,7 @@
 
 ### Краткая информация о данных
 
-Сам датасет превышает допустимый размер для размещаемых на GitHubе файлов, поэтому я разместил его в [гугл диске](https://drive.google.com/file/d/1ro3lRr5aItPCNqGWI0OwyZchs2khaHyx/view?usp=sharing), табличка с курсами валют [доступна также по ссылке](https://drive.google.com/file/d/1VCq2XBY2gwvUU3nC5t7g5Q2ACQ09Z2VX/view?usp=sharing).
+Сам датасет превышает допустимый размер для размещаемых на GitHubе файлов, поэтому я разместил его в [гугл диске](https://drive.google.com/file/d/1ro3lRr5aItPCNqGWI0OwyZchs2khaHyx/view?usp=sharing), табличка с курсами валют, которая нам понадобится на этапе преобразования данных, [доступна также по ссылке](https://drive.google.com/file/d/1VCq2XBY2gwvUU3nC5t7g5Q2ACQ09Z2VX/view?usp=sharing).
 
 ### Этапы работы над проектом  
 
