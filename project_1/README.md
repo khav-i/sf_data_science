@@ -22,4 +22,4 @@
 
 ### Результаты:
 
-[Работа](https://github.com/khav-i/sf_data_science/blob/main/project_1/Project-1.%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%20%D0%B8%D0%B7%20HeadHunter.ipynb) была проделана с помощью Jupyter Notebook. Для доступа к интерактивной версии [пройдите сюда](https://nbviewer.org/github/khav-i/sf_data_science/blob/main/project_1/Project-1.%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%20%D0%B8%D0%B7%20HeadHunter.ipynb).
+[Работа](https://github.com/khav-i/sf_data_science/blob/main/project_1/Project-1.%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%20%D0%B8%D0%B7%20HeadHunter.ipynb) была проделана с помощью Jupyter Notebook. Для доступа к версии файла с отображением интерактивных plotly-график прошу [пройти сюда](https://nbviewer.org/github/khav-i/sf_data_science/blob/main/project_1/Project-1.%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%20%D0%B8%D0%B7%20HeadHunter.ipynb).
