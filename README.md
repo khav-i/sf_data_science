@@ -8,5 +8,6 @@ SF Homework
 * [Проект 1. Анализ резюме из HeadHunter](https://github.com/khav-i/sf_data_science/tree/main/project_1)
 * [Проект 2. Анализ вакансий из HeadHunter](https://github.com/khav-i/sf_data_science/tree/main/project_2)
 * [Проект 3. Исследование данных Booking](https://github.com/khav-i/sf_data_science/blob/main/project_3/README.md)
+* [Проект 4. Прогноз готовности внести депозит](https://github.com/khav-i/sf_data_science/blob/main/project_4/README.md)
 
 ## Ссылки на резюме
