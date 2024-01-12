@@ -58,7 +58,7 @@
 Например, вот так может выглядеть интерпретация кластеров для случая RF-сегментации (анализа на основе давности и частоты
 заказов клиента):
 
-<center> <img src=https://miro.medium.com/max/1400/1*uYQjy9SUjW7iWHc2gGanQQ.png align="right" width="400"/> </center>
+![image](https://github.com/khav-i/sf_data_science/assets/126453765/95c8b769-e3ee-4626-8696-30e0cf8004a5)
 
 Задача маркетологов — вести клиента в зону лояльных.
 
