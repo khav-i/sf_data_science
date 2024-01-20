@@ -53,4 +53,4 @@
 на секунду. Полагаю, не всегда подобные усложнения стоят того, чтобы тратить на них время (за исключением тех случаев, когда времени 
 предостаточно). 
 
-## Непосрдественно с ноутбуком прошу ознакомиться [здесь](https://github.com/khav-i/sf_data_science/blob/main/project_5/predicting_the_duration_of_a_taxi_trip.ipynb)
+## Непосрдественно с ноутбуком прошу ознакомиться [здесь](https://github.com/khav-i/sf_data_science/blob/main/project_5/Predicting%20the%20duration%20of%20a%20taxi%20trip.ipynb)
